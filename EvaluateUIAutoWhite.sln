@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUILibrary", "AutoUILibrary\AutoUILibrary.csproj", "{F840ECD2-4851-4049-B114-C9D88073C5E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteLibrary", "WhiteLibrary\WhiteLibrary.csproj", "{50681FEE-55CF-49EC-B3A6-136616E08725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F840ECD2-4851-4049-B114-C9D88073C5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F840ECD2-4851-4049-B114-C9D88073C5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F840ECD2-4851-4049-B114-C9D88073C5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F840ECD2-4851-4049-B114-C9D88073C5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50681FEE-55CF-49EC-B3A6-136616E08725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50681FEE-55CF-49EC-B3A6-136616E08725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50681FEE-55CF-49EC-B3A6-136616E08725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50681FEE-55CF-49EC-B3A6-136616E08725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+E:\PersonifyAutomation\EvaluateUIAutoWhite\EvaluateUIAutoWhite\WhiteLibrary\bin\Debug\WhiteLibrary.exe.config
+E:\PersonifyAutomation\EvaluateUIAutoWhite\EvaluateUIAutoWhite\WhiteLibrary\bin\Debug\WhiteLibrary.exe
+E:\PersonifyAutomation\EvaluateUIAutoWhite\EvaluateUIAutoWhite\WhiteLibrary\bin\Debug\WhiteLibrary.pdb
+E:\PersonifyAutomation\EvaluateUIAutoWhite\EvaluateUIAutoWhite\WhiteLibrary\obj\Debug\WhiteLibrary.csprojResolveAssemblyReference.cache
+E:\PersonifyAutomation\EvaluateUIAutoWhite\EvaluateUIAutoWhite\WhiteLibrary\obj\Debug\WhiteLibrary.exe
+E:\PersonifyAutomation\EvaluateUIAutoWhite\EvaluateUIAutoWhite\WhiteLibrary\obj\Debug\WhiteLibrary.pdb
+E:\PersonifyAutomation\EvaluateUIAutoWhite\EvaluateUIAutoWhite\WhiteLibrary\bin\Debug\Castle.Core.dll
+E:\PersonifyAutomation\EvaluateUIAutoWhite\EvaluateUIAutoWhite\WhiteLibrary\bin\Debug\TestStack.White.dll
+E:\PersonifyAutomation\EvaluateUIAutoWhite\EvaluateUIAutoWhite\WhiteLibrary\bin\Debug\Castle.Core.xml
+E:\PersonifyAutomation\EvaluateUIAutoWhite\EvaluateUIAutoWhite\WhiteLibrary\bin\Debug\TestStack.White.pdb
+E:\PersonifyAutomation\EvaluateUIAutoWhite\EvaluateUIAutoWhite\WhiteLibrary\bin\Debug\TestStack.White.xml

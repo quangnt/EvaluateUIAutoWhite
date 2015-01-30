@@ -1,0 +1,6 @@
+E:\PersonifyAutomation\EvaluateUIAutoWhite\EvaluateUIAutoWhite\AutoUILibrary\bin\Debug\AutoUILibrary.exe.config
+E:\PersonifyAutomation\EvaluateUIAutoWhite\EvaluateUIAutoWhite\AutoUILibrary\bin\Debug\AutoUILibrary.exe
+E:\PersonifyAutomation\EvaluateUIAutoWhite\EvaluateUIAutoWhite\AutoUILibrary\bin\Debug\AutoUILibrary.pdb
+E:\PersonifyAutomation\EvaluateUIAutoWhite\EvaluateUIAutoWhite\AutoUILibrary\obj\Debug\AutoUILibrary.csprojResolveAssemblyReference.cache
+E:\PersonifyAutomation\EvaluateUIAutoWhite\EvaluateUIAutoWhite\AutoUILibrary\obj\Debug\AutoUILibrary.exe
+E:\PersonifyAutomation\EvaluateUIAutoWhite\EvaluateUIAutoWhite\AutoUILibrary\obj\Debug\AutoUILibrary.pdb
